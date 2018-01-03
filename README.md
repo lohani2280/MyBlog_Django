@@ -1,5 +1,5 @@
 # MyBlog_Django
-While learning Django i created this blog that elegantly performs CRUD operations.
+While learning Django i created this blog that elegantly performs CRUD(Create Retrieve Update Delete) operations.
 
 FrontEnd - HTML, CSS, Bootstrap<br/>
 Backend - Django<br/>
