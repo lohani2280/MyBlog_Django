@@ -1,12 +1,18 @@
 # MyBlog_Django
 While learning Django i created this blog that elegantly performs CRUD operations.
 
-FrontEnd - HTML, CSS, Bootstrap 
-Backend - Django
-Database - sqlite3
+FrontEnd - HTML, CSS, Bootstrap<br/>
+Backend - Django<br/>
+Database - sqlite3<br/>
 
-![alt text](screenshots/homepage.png)
-![alt text](screenshots/pages.png)
-![alt text](screenshots/view.png)
-![alt text](screenshots/update_post.png)
-![alt text](screenshots/create_post.png)
+Screenshots of MyBlog<br/>
+<p align="center">
+<img src="https://github.com/lohani2280/MyBlog_Django/blob/master/screenshots/homepage.png" height=70% width=70% align="center">
+</p>
+<p align="center">
+<img src="https://github.com/lohani2280/MyBlog_Django/blob/master/screenshots/pages.png" height=70% width=70%>
+</p>
+<p align="center">
+<img src="https://github.com/lohani2280/MyBlog_Django/blob/master/screenshots/create_post.png" height=70% width=70%>
+</p>
+
