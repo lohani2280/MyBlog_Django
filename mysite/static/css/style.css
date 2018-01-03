@@ -1,0 +1,10 @@
+.navbar-default {
+    background-color: #fff;
+    border-color: #f3f3f3;
+}
+.input-group, .btn-primary {
+    margin-top: 20px;
+}
+.add-new .form-control {
+    margin-top: 20px;
+}
